@@ -1,10 +1,8 @@
 window.onload = () => {
-    let myPos;
     if('geolocation' in navigator) {
         navigator.geolocation.getCurrentPosition((pos) => {
-            myPos = pos;
-        })
-        console.log(myPos)
+            console.log(pos);
+        });
     } else {
         console.log("Geolocation not available on this browser")
     }
