@@ -1,14 +1,22 @@
 window.onload = () => {
     if('geolocation' in navigator) {
-        navigator.geolocation.getCurrentPosition((pos) => {
-            updateHtml(pos.coords.longitude, pos.coords.latitude, pos.coords.altitude);
+        let userGeoID = navigator.geolocation.watchPosition((pos) => {
+            console.log(pos);
         });
+        console.log(userGeoID);
+        // navigator.geolocation.getCurrentPosition((pos) => {
+        //     // Callback to update the coords
+        //     updateCoords(pos.coords.longitude, pos.coords.latitude, pos.coords.altitude);
+        //     updateInfos();
+        // });
     } else {
-        console.log("Geolocation not available on this browser")
+        // If browser refused Geolocation, print error
+        console.log("Geolocation not available on this browser");
     }
 }
 
-function updateHtml(long, lat, alt) {
+// Basic function to update the DOM HTML elements
+function updateCoords(long, lat, alt) {
     document.getElementById("long").innerHTML =long.toString();
     document.getElementById("lat").innerHTML = lat.toString();
     document.getElementById("alti").innerHTML = alt.toString();
