@@ -31,7 +31,7 @@ function updateDeviceRotationFields(e) {
     let beta = e.beta;
     let gamma = e.gamma;
 
-    // document.querySelector(".alpha").innerHTML = alpha;
+    document.querySelector(".alpha").innerHTML = alpha;
     document.querySelector(".beta").innerHTML = beta;
     document.querySelector(".gamma").innerHTML = gamma;
 }
