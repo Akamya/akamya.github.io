@@ -1,22 +1,9 @@
 window.onload = () => {
-    const options = {
-        enableHighAccuracy: true,
-        timeout: 5000,
-        maximumAge: 0
-    };
-
-    function success(pos) {
-        const crd = pos.coords;
-
-        console.log('Your current position is:');
-        console.log(`Latitude : ${crd.latitude}`);
-        console.log(`Longitude: ${crd.longitude}`);
-        console.log(`More or less ${crd.accuracy} meters.`);
+    if('geolocation' in navigator) {
+        navigator.geolocation.getCurrentPosition((pos) => {
+            document.querySelector("long").innerHTML = toString(pos.coords.longitude);
+        })
+    } else {
+        console.log("Geolocation not available on this browser")
     }
-
-    function error(err) {
-        console.warn(`ERROR(${err.code}): ${err.message}`);
-    }
-
-    navigator.geolocation.getCurrentPosition(success, error, options);
 }
