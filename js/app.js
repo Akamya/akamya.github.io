@@ -20,12 +20,14 @@ function updateCoords(long, lat, alt) {
     document.getElementById("alti").innerHTML = alt == null ? "No data" : alt.toString();
 }
 
+// Update the accuracy, the moving speed, and the timestamp
 function updateInfos(acc, speed, date) {
     document.querySelector(".accuracy").innerHTML = acc == null ? "No data" : acc.toString();
     document.querySelector(".speed").innerHTML = speed == null ? "No data" : speed.toString();
     document.querySelector(".current-date").innerHTML = date == null ? "No data" : new Date(date);
 }
 
+// show Alpha, beta and gamma rotation of the phone
 function updateDeviceRotationFields(e) {
     let alpha = e.alpha;
     let beta = e.beta;
