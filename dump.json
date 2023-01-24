@@ -1,0 +1,2453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Les Adrets-de-l'Estérel",
+        "code": "83001",
+        "codeRegion": "93",
+        "population": 2784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8177,
+          43.5385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Aiguines",
+        "code": "83002",
+        "codeRegion": "93",
+        "population": 270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3197,
+          43.7365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Ampus",
+        "code": "83003",
+        "codeRegion": "93",
+        "population": 913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3683,
+          43.6218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Les Arcs",
+        "code": "83004",
+        "codeRegion": "93",
+        "population": 7066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4862,
+          43.4533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Artignosc-sur-Verdon",
+        "code": "83005",
+        "codeRegion": "93",
+        "population": 288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1087,
+          43.6991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Artigues",
+        "code": "83006",
+        "codeRegion": "93",
+        "population": 283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8,
+          43.5802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Aups",
+        "code": "83007",
+        "codeRegion": "93",
+        "population": 2284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2139,
+          43.6283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Bagnols-en-Forêt",
+        "code": "83008",
+        "codeRegion": "93",
+        "population": 2862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7089,
+          43.5328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Bandol",
+        "code": "83009",
+        "codeRegion": "93",
+        "population": 8403
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7488,
+          43.147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Bargème",
+        "code": "83010",
+        "codeRegion": "93",
+        "population": 225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5697,
+          43.7279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Bargemon",
+        "code": "83011",
+        "codeRegion": "93",
+        "population": 1334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5439,
+          43.6344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Barjols",
+        "code": "83012",
+        "codeRegion": "93",
+        "population": 2990
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.973,
+          43.5484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Bastide",
+        "code": "83013",
+        "codeRegion": "93",
+        "population": 208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6327,
+          43.7464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Baudinard-sur-Verdon",
+        "code": "83014",
+        "codeRegion": "93",
+        "population": 235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1351,
+          43.714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Bauduen",
+        "code": "83015",
+        "codeRegion": "93",
+        "population": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2048,
+          43.7203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Beausset",
+        "code": "83016",
+        "codeRegion": "93",
+        "population": 9845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8239,
+          43.205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Belgentier",
+        "code": "83017",
+        "codeRegion": "93",
+        "population": 2423
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9972,
+          43.2416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Besse-sur-Issole",
+        "code": "83018",
+        "codeRegion": "93",
+        "population": 3038
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1839,
+          43.339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Bormes-les-Mimosas",
+        "code": "83019",
+        "codeRegion": "93",
+        "population": 8162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3615,
+          43.1575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Bourguet",
+        "code": "83020",
+        "codeRegion": "93",
+        "population": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5017,
+          43.7798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Bras",
+        "code": "83021",
+        "codeRegion": "93",
+        "population": 2629
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9558,
+          43.4723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Brenon",
+        "code": "83022",
+        "codeRegion": "93",
+        "population": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5365,
+          43.7691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Brignoles",
+        "code": "83023",
+        "codeRegion": "93",
+        "population": 17361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0759,
+          43.3878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Brue-Auriac",
+        "code": "83025",
+        "codeRegion": "93",
+        "population": 1419
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9402,
+          43.5259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Cabasse",
+        "code": "83026",
+        "codeRegion": "93",
+        "population": 1951
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2303,
+          43.4275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Cadière-d'Azur",
+        "code": "83027",
+        "codeRegion": "93",
+        "population": 5574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7231,
+          43.2026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Callas",
+        "code": "83028",
+        "codeRegion": "93",
+        "population": 1948
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5735,
+          43.5687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Callian",
+        "code": "83029",
+        "codeRegion": "93",
+        "population": 3341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7601,
+          43.6069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Camps-la-Source",
+        "code": "83030",
+        "codeRegion": "93",
+        "population": 1897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1261,
+          43.3719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Cannet-des-Maures",
+        "code": "83031",
+        "codeRegion": "93",
+        "population": 4279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3703,
+          43.3695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Carcès",
+        "code": "83032",
+        "codeRegion": "93",
+        "population": 3380
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1752,
+          43.4738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Carnoules",
+        "code": "83033",
+        "codeRegion": "93",
+        "population": 3525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1978,
+          43.2921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Carqueiranne",
+        "code": "83034",
+        "codeRegion": "93",
+        "population": 9518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0714,
+          43.0975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Castellet",
+        "code": "83035",
+        "codeRegion": "93",
+        "population": 3873
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7561,
+          43.2148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Cavalaire-sur-Mer",
+        "code": "83036",
+        "codeRegion": "93",
+        "population": 7586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5215,
+          43.1797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Celle",
+        "code": "83037",
+        "codeRegion": "93",
+        "population": 1483
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0016,
+          43.3843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Châteaudouble",
+        "code": "83038",
+        "codeRegion": "93",
+        "population": 477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.442,
+          43.6259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Châteauvert",
+        "code": "83039",
+        "codeRegion": "93",
+        "population": 147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0088,
+          43.4992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Châteauvieux",
+        "code": "83040",
+        "codeRegion": "93",
+        "population": 79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5959,
+          43.7874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Claviers",
+        "code": "83041",
+        "codeRegion": "93",
+        "population": 720
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5845,
+          43.5998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Cogolin",
+        "code": "83042",
+        "codeRegion": "93",
+        "population": 11311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5319,
+          43.2406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Collobrières",
+        "code": "83043",
+        "codeRegion": "93",
+        "population": 1874
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3454,
+          43.2446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Comps-sur-Artuby",
+        "code": "83044",
+        "codeRegion": "93",
+        "population": 328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.506,
+          43.7075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Correns",
+        "code": "83045",
+        "codeRegion": "93",
+        "population": 906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0543,
+          43.4884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Cotignac",
+        "code": "83046",
+        "codeRegion": "93",
+        "population": 2111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1436,
+          43.5246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Crau",
+        "code": "83047",
+        "codeRegion": "93",
+        "population": 18774
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0923,
+          43.1706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Croix-Valmer",
+        "code": "83048",
+        "codeRegion": "93",
+        "population": 3779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5879,
+          43.1909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Cuers",
+        "code": "83049",
+        "codeRegion": "93",
+        "population": 11962
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0654,
+          43.2429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Draguignan",
+        "code": "83050",
+        "codeRegion": "93",
+        "population": 39433
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4651,
+          43.5346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Entrecasteaux",
+        "code": "83051",
+        "codeRegion": "93",
+        "population": 1118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2324,
+          43.5085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Esparron",
+        "code": "83052",
+        "codeRegion": "93",
+        "population": 371
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.851,
+          43.5881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Évenos",
+        "code": "83053",
+        "codeRegion": "93",
+        "population": 2416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8702,
+          43.1876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Farlède",
+        "code": "83054",
+        "codeRegion": "93",
+        "population": 9614
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0414,
+          43.164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Fayence",
+        "code": "83055",
+        "codeRegion": "93",
+        "population": 5735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6762,
+          43.6118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Figanières",
+        "code": "83056",
+        "codeRegion": "93",
+        "population": 2623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4915,
+          43.5642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Flassans-sur-Issole",
+        "code": "83057",
+        "codeRegion": "93",
+        "population": 3564
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2169,
+          43.372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Flayosc",
+        "code": "83058",
+        "codeRegion": "93",
+        "population": 4247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3577,
+          43.5441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Forcalqueiret",
+        "code": "83059",
+        "codeRegion": "93",
+        "population": 3101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0884,
+          43.3357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Fox-Amphoux",
+        "code": "83060",
+        "codeRegion": "93",
+        "population": 458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1165,
+          43.5944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Fréjus",
+        "code": "83061",
+        "codeRegion": "93",
+        "population": 54458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7848,
+          43.4553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Garde",
+        "code": "83062",
+        "codeRegion": "93",
+        "population": 25505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0162,
+          43.1291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Garde-Freinet",
+        "code": "83063",
+        "codeRegion": "93",
+        "population": 1847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4603,
+          43.3251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Garéoult",
+        "code": "83064",
+        "codeRegion": "93",
+        "population": 5303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0426,
+          43.3397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Gassin",
+        "code": "83065",
+        "codeRegion": "93",
+        "population": 2614
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5876,
+          43.2385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Ginasservis",
+        "code": "83066",
+        "codeRegion": "93",
+        "population": 1874
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8393,
+          43.6566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Gonfaron",
+        "code": "83067",
+        "codeRegion": "93",
+        "population": 4329
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2978,
+          43.3149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Grimaud",
+        "code": "83068",
+        "codeRegion": "93",
+        "population": 4562
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5097,
+          43.2822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Hyères",
+        "code": "83069",
+        "codeRegion": "93",
+        "population": 54821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2357,
+          43.1139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Lavandou",
+        "code": "83070",
+        "codeRegion": "93",
+        "population": 5985
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4015,
+          43.1669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Londe-les-Maures",
+        "code": "83071",
+        "codeRegion": "93",
+        "population": 10641
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2417,
+          43.1641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Lorgues",
+        "code": "83072",
+        "codeRegion": "93",
+        "population": 9054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3588,
+          43.4734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Luc",
+        "code": "83073",
+        "codeRegion": "93",
+        "population": 11094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3107,
+          43.3855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Martre",
+        "code": "83074",
+        "codeRegion": "93",
+        "population": 204
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5914,
+          43.7631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Les Mayons",
+        "code": "83075",
+        "codeRegion": "93",
+        "population": 631
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3621,
+          43.3117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Mazaugues",
+        "code": "83076",
+        "codeRegion": "93",
+        "population": 868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8899,
+          43.3435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Méounes-lès-Montrieux",
+        "code": "83077",
+        "codeRegion": "93",
+        "population": 2226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.979,
+          43.2699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Moissac-Bellevue",
+        "code": "83078",
+        "codeRegion": "93",
+        "population": 290
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1666,
+          43.6487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Môle",
+        "code": "83079",
+        "codeRegion": "93",
+        "population": 1461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4835,
+          43.2202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Mons",
+        "code": "83080",
+        "codeRegion": "93",
+        "population": 806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7054,
+          43.7041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Montauroux",
+        "code": "83081",
+        "codeRegion": "93",
+        "population": 6548
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7993,
+          43.5936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Montferrat",
+        "code": "83082",
+        "codeRegion": "93",
+        "population": 1527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4774,
+          43.6336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Montfort-sur-Argens",
+        "code": "83083",
+        "codeRegion": "93",
+        "population": 1420
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1252,
+          43.486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Montmeyan",
+        "code": "83084",
+        "codeRegion": "93",
+        "population": 533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0652,
+          43.6574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Motte",
+        "code": "83085",
+        "codeRegion": "93",
+        "population": 2804
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5506,
+          43.5091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Muy",
+        "code": "83086",
+        "codeRegion": "93",
+        "population": 9288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5844,
+          43.468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Nans-les-Pins",
+        "code": "83087",
+        "codeRegion": "93",
+        "population": 4835
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7874,
+          43.3808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Néoules",
+        "code": "83088",
+        "codeRegion": "93",
+        "population": 2828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0267,
+          43.2912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Ollières",
+        "code": "83089",
+        "codeRegion": "93",
+        "population": 650
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8141,
+          43.5074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Ollioules",
+        "code": "83090",
+        "codeRegion": "93",
+        "population": 13866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8515,
+          43.1385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Pierrefeu-du-Var",
+        "code": "83091",
+        "codeRegion": "93",
+        "population": 6068
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1798,
+          43.2351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Pignans",
+        "code": "83092",
+        "codeRegion": "93",
+        "population": 4588
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2625,
+          43.2997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Plan-d'Aups-Sainte-Baume",
+        "code": "83093",
+        "codeRegion": "93",
+        "population": 2187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7472,
+          43.3336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Plan-de-la-Tour",
+        "code": "83094",
+        "codeRegion": "93",
+        "population": 3048
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5462,
+          43.337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Pontevès",
+        "code": "83095",
+        "codeRegion": "93",
+        "population": 737
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0687,
+          43.5509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Pourcieux",
+        "code": "83096",
+        "codeRegion": "93",
+        "population": 1574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7894,
+          43.4626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Pourrières",
+        "code": "83097",
+        "codeRegion": "93",
+        "population": 5181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7432,
+          43.487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Pradet",
+        "code": "83098",
+        "codeRegion": "93",
+        "population": 10277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0214,
+          43.0984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Puget-sur-Argens",
+        "code": "83099",
+        "codeRegion": "93",
+        "population": 8062
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6861,
+          43.4712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Puget-Ville",
+        "code": "83100",
+        "codeRegion": "93",
+        "population": 4357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1646,
+          43.2809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Ramatuelle",
+        "code": "83101",
+        "codeRegion": "93",
+        "population": 2115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.645,
+          43.2115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Régusse",
+        "code": "83102",
+        "codeRegion": "93",
+        "population": 2642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.122,
+          43.663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Revest-les-Eaux",
+        "code": "83103",
+        "codeRegion": "93",
+        "population": 3962
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9453,
+          43.1878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Rians",
+        "code": "83104",
+        "codeRegion": "93",
+        "population": 4278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.734,
+          43.6026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Riboux",
+        "code": "83105",
+        "codeRegion": "93",
+        "population": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.753,
+          43.3063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Rocbaron",
+        "code": "83106",
+        "codeRegion": "93",
+        "population": 5250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0869,
+          43.3062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Roquebrune-sur-Argens",
+        "code": "83107",
+        "codeRegion": "93",
+        "population": 14937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6526,
+          43.4282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Roquebrussanne",
+        "code": "83108",
+        "codeRegion": "93",
+        "population": 2203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9787,
+          43.3384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Roque-Esclapon",
+        "code": "83109",
+        "codeRegion": "93",
+        "population": 256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6479,
+          43.721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Rougiers",
+        "code": "83110",
+        "codeRegion": "93",
+        "population": 1662
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8505,
+          43.3869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Sainte-Anastasie-sur-Issole",
+        "code": "83111",
+        "codeRegion": "93",
+        "population": 2048
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1227,
+          43.3337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Saint-Cyr-sur-Mer",
+        "code": "83112",
+        "codeRegion": "93",
+        "population": 11484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7055,
+          43.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Saint-Julien",
+        "code": "83113",
+        "codeRegion": "93",
+        "population": 2402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9143,
+          43.7045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Saint-Martin-de-Pallières",
+        "code": "83114",
+        "codeRegion": "93",
+        "population": 247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8869,
+          43.577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Sainte-Maxime",
+        "code": "83115",
+        "codeRegion": "93",
+        "population": 14448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6139,
+          43.3584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Saint-Maximin-la-Sainte-Baume",
+        "code": "83116",
+        "codeRegion": "93",
+        "population": 17095
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8603,
+          43.4488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Saint-Paul-en-Forêt",
+        "code": "83117",
+        "codeRegion": "93",
+        "population": 1757
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6822,
+          43.5681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Saint-Raphaël",
+        "code": "83118",
+        "codeRegion": "93",
+        "population": 36027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8482,
+          43.4583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Saint-Tropez",
+        "code": "83119",
+        "codeRegion": "93",
+        "population": 3851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6638,
+          43.2619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Saint-Zacharie",
+        "code": "83120",
+        "codeRegion": "93",
+        "population": 6051
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7164,
+          43.3749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Salernes",
+        "code": "83121",
+        "codeRegion": "93",
+        "population": 3761
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2379,
+          43.5646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Les Salles-sur-Verdon",
+        "code": "83122",
+        "codeRegion": "93",
+        "population": 226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2042,
+          43.767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Sanary-sur-Mer",
+        "code": "83123",
+        "codeRegion": "93",
+        "population": 16889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7951,
+          43.1374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Seillans",
+        "code": "83124",
+        "codeRegion": "93",
+        "population": 2669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6024,
+          43.6326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Seillons-Source-d'Argens",
+        "code": "83125",
+        "codeRegion": "93",
+        "population": 2492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8775,
+          43.5156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Seyne-sur-Mer",
+        "code": "83126",
+        "codeRegion": "93",
+        "population": 62987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8789,
+          43.0837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Signes",
+        "code": "83127",
+        "codeRegion": "93",
+        "population": 2927
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8498,
+          43.2759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Sillans-la-Cascade",
+        "code": "83128",
+        "codeRegion": "93",
+        "population": 745
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1549,
+          43.565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Six-Fours-les-Plages",
+        "code": "83129",
+        "codeRegion": "93",
+        "population": 34592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8077,
+          43.0843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Solliès-Pont",
+        "code": "83130",
+        "codeRegion": "93",
+        "population": 11762
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0625,
+          43.1895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Solliès-Toucas",
+        "code": "83131",
+        "codeRegion": "93",
+        "population": 5753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9836,
+          43.2097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Solliès-Ville",
+        "code": "83132",
+        "codeRegion": "93",
+        "population": 2526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0232,
+          43.1804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Tanneron",
+        "code": "83133",
+        "codeRegion": "93",
+        "population": 1671
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8538,
+          43.5732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Taradeau",
+        "code": "83134",
+        "codeRegion": "93",
+        "population": 1784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4283,
+          43.4657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Tavernes",
+        "code": "83135",
+        "codeRegion": "93",
+        "population": 1405
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0232,
+          43.6009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Thoronet",
+        "code": "83136",
+        "codeRegion": "93",
+        "population": 2552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2905,
+          43.4585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Toulon",
+        "code": "83137",
+        "codeRegion": "93",
+        "population": 178745
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9334,
+          43.1364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Tourrettes",
+        "code": "83138",
+        "codeRegion": "93",
+        "population": 2877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7252,
+          43.609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Tourtour",
+        "code": "83139",
+        "codeRegion": "93",
+        "population": 585
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3098,
+          43.594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Tourves",
+        "code": "83140",
+        "codeRegion": "93",
+        "population": 5042
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9281,
+          43.4108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Trans-en-Provence",
+        "code": "83141",
+        "codeRegion": "93",
+        "population": 5947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4869,
+          43.5025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Trigance",
+        "code": "83142",
+        "codeRegion": "93",
+        "population": 203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.438,
+          43.7365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Le Val",
+        "code": "83143",
+        "codeRegion": "93",
+        "population": 4292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0569,
+          43.4468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Valette-du-Var",
+        "code": "83144",
+        "codeRegion": "93",
+        "population": 24087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9893,
+          43.1484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Varages",
+        "code": "83145",
+        "codeRegion": "93",
+        "population": 1176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9435,
+          43.5924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "La Verdière",
+        "code": "83146",
+        "codeRegion": "93",
+        "population": 1603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9374,
+          43.6529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Vérignon",
+        "code": "83147",
+        "codeRegion": "93",
+        "population": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2653,
+          43.658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Vidauban",
+        "code": "83148",
+        "codeRegion": "93",
+        "population": 12616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4599,
+          43.4071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Villecroze",
+        "code": "83149",
+        "codeRegion": "93",
+        "population": 1466
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2855,
+          43.5649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Vinon-sur-Verdon",
+        "code": "83150",
+        "codeRegion": "93",
+        "population": 4248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8017,
+          43.7214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Vins-sur-Caramy",
+        "code": "83151",
+        "codeRegion": "93",
+        "population": 963
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1495,
+          43.432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Rayol-Canadel-sur-Mer",
+        "code": "83152",
+        "codeRegion": "93",
+        "population": 667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4744,
+          43.1664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Saint-Mandrier-sur-Mer",
+        "code": "83153",
+        "codeRegion": "93",
+        "population": 6095
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9273,
+          43.0759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Saint-Antonin-du-Var",
+        "code": "83154",
+        "codeRegion": "93",
+        "population": 722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2935,
+          43.5071
+        ]
+      }
+    }
+  ]
+}
