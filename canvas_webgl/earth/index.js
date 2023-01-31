@@ -44,11 +44,9 @@ sphereMesh.rotation.set(0, 0, 0);
 // Ask for geolocation permission
 navigator.geolocation.getCurrentPosition(function(position) {
     if (position) {
-        console.log(position);
         // Get the user's location and replace the marker with a 3D model (using GLTFLoader)
         let coord = convertToCartesian(position.coords.latitude, position.coords.longitude, 1);
         let model = new GLTFLoader();
-        console.log(coord);
         model.load('./models/Adventurer.gltf', gltf => {
             scene.add( gltf.scene );
             gltf.scene.position.set(coord[0], coord[1], coord[2]);
@@ -104,7 +102,6 @@ function rotateToCamera() {
         countries[i].lookAt(camera.position);
     }
     if(adventurer) {
-        console.log(camera.position);
         adventurer.lookAt(-camera.position.x, -camera.position.y, -camera.position.z);
     }
 }
